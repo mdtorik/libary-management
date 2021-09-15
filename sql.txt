@@ -1,0 +1,1 @@
+select b.id,b.barcode,b.title,b.author,c.name,b.price,b.img_name from lib_books b,lib_catagory c where c.id=b.catagory_id order by id limit 0,3

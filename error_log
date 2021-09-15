@@ -1,0 +1,18 @@
+[05-Oct-2020 14:58:54 Europe/Berlin] PHP Warning:  Use of undefined constant SEVER - assumed 'SEVER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php7\cms\db_config.php on line 7
+[05-Oct-2020 14:58:57 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\php7\cms\db_config.php on line 7
+[05-Oct-2020 14:58:57 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\php7\cms\db_config.php on line 7
+[05-Oct-2020 14:59:16 Europe/Berlin] PHP Warning:  Use of undefined constant SEVER - assumed 'SEVER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\php7\cms\db_config.php on line 7
+[05-Oct-2020 14:59:18 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\php7\cms\db_config.php on line 7
+[05-Oct-2020 14:59:18 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: No such host is known.  in C:\xampp\htdocs\php7\cms\db_config.php on line 7
+[05-Oct-2020 15:03:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in C:\xampp\htdocs\php7\cms\index.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\php7\cms\index.php on line 14
+[05-Oct-2020 15:03:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in C:\xampp\htdocs\php7\cms\index.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\php7\cms\index.php on line 14
+[05-Oct-2020 15:06:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in C:\xampp\htdocs\php7\cms\index.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\php7\cms\index.php on line 14
